@@ -23,10 +23,14 @@ Inline examples:
 ![Plugins Screen](docs/images/plugins.png)  
 
 Additional screenshots:  
-- ![Back Up](docs/images/backup.png)  
-- ![Wordfence Dashboard](docs/images/wordfence.png)  
-- ![Validation](docs/images/validation.png)  
-- ![Analytics](docs/images/ga_gsc.png)  
+- WordPress backup configuration and settings interface  
+![Back Up](docs/images/backup.png)  
+- Security firewall dashboard showing protection status and statistics  
+![Wordfence Dashboard](docs/images/wordfence.png)  
+- W3C HTML validation results showing clean, error-free code  
+![Validation](docs/images/validation.png)  
+- Google Analytics and Search Console integration showing website performance metrics  
+![Analytics](docs/images/ga_gsc.png)  
 
 ## Notes
 - Live site access has expired, this README documents the build and project evidence
