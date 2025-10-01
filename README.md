@@ -26,7 +26,7 @@ Additional screenshots:
 - ![Back Up](docs/images/backup.png)  
 - ![Wordfence Dashboard](docs/images/wordfence.png)  
 - ![Validation](docs/images/validation.png)  
-- ![Analytics](docs/images/ga-gsc.png)  
+- ![Analytics](docs/images/ga_gsc.png)  
 
 ## Notes
 - Live site access has expired, this README documents the build and project evidence
