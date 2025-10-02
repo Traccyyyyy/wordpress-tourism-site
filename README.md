@@ -18,8 +18,9 @@ Tourism-focused website built in WordPress for an assignment project. Deliverabl
 
 ## Screenshots  
 
-Inline examples:  
+- Home Page
 ![Home Page](docs/images/home.png)  
+- Plugins
 ![Plugins Screen](docs/images/plugins.png)  
 
 Additional screenshots:  
